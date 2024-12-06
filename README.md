@@ -3,6 +3,7 @@
 📚 Requirement Understanding
 
 🕵🏻‍♀Data Collection and Data Modelling
+
 🔑 collect data in .csv format Transform that data in Power Query.
 
 🔑 After that I clean that data like wrong data type, errors, duplicate values, etc.
