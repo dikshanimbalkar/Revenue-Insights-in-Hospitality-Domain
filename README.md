@@ -20,3 +20,9 @@
 4. use dounat chart, barchart
 5. create KPI (revenue, Avg_rating, RevPAR, ADR).
 
+💫 Conclusion:
+
+1. A revenue dashboard was built for AtliQ hotels depicting its various KPIs visually
+2. Relevant filters along with tooltips and interactions was provided in the dashboard
+3. This dashboard can be used for both high-level and in-depth analysis of KPIs across various dimensions
+
